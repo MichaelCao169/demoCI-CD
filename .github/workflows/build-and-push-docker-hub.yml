@@ -32,7 +32,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: MichaelCao169/cicd2024:staging
+          tags: michaelcao169/cicd2024:staging
 
 
   pull-and-up:
